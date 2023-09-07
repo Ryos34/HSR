@@ -1,5 +1,6 @@
 <?php
     $label = "CIAO MONDO";
+    $label_2 = "sono pronto al mio secondo commit";
 
 ?>
 
@@ -13,5 +14,7 @@
 </head>
 <body>
     <?= $label; ?>
+    <br><br>
+    <?= $label_2; ?>
 </body>
 </html>
